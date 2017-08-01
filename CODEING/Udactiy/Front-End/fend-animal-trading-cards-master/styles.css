@@ -1,0 +1,58 @@
+/* add your CSS here */
+
+.main {
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.interesting-animal-facts {
+  border-style: solid;
+  border-width: thin;
+      margin: 10px;
+      padding: 10px;
+
+}
+
+.text-animal-facts {
+  font-style: italic;
+}
+
+
+.list-without-dots {
+  list-style-type: none;
+
+}
+
+.img-format {
+  border-radius: 10px;
+
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#card {
+  font-family: opensans, arial;
+  width: 350px;
+    background-color: white;
+    border-width: thin;
+    box-shadow: 0px 5px 5px 0px #888888;
+    
+
+}
+
+.normal-text {
+  font-style: normal;
+}
+
+
+/*Page resembles card from design prototype.
+[x] The text is italicized for the animal’s interesting fact.
+[x] The labels are bolded for the animal’s list items.
+[x] The dots are removed from the animal's list items.
+[x] Uses border around animal’s name, image, and information (interesting fact, list items, and description).
+[x] Uses border around animal’s information.
+[x] Uses spacing between animal’s name, image, and information.
+[x] Card width should be  xed and include the spacing around the image (Since image is 300px wide, card should be 300px + spacing on either side. Card should not expand with the browser window).*/
