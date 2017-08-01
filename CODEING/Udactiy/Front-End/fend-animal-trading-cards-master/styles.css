@@ -1,6 +1,8 @@
 /* add your CSS here */
 
 .main {
+  border-width: thin;
+  border-style: solid;	
   margin: 10px;
   padding: 10px;
 
@@ -34,12 +36,11 @@
 }
 
 #card {
-  font-family: opensans, arial;
-  width: 350px;
+  	font-family: "Open Sans";
+    width: 350px;
     background-color: white;
     border-width: thin;
-    box-shadow: 0px 5px 5px 0px #888888;
-    
+    box-shadow: 5px 5px #888888;
 
 }
 
